@@ -1,0 +1,28 @@
+name: Orde
+favicon: null
+layout_spectrum: 0.9256757139228284
+typography_spectrum: 0.0910716273356229
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.14677013247273862
+  lightness: 0.09043243248015642
+  saturation: 0.3776023758109659
+  rhythmicContrast: 0.04459291440434754
+purpose: []
